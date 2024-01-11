@@ -522,9 +522,8 @@ strong {
   position: absolute;
   z-index: 22;
   top: 0;
-  width: 350px;
+  width: 100%;
   min-width: 550px;
-  border-radius: 100%;
 }
 
 .hero svg {
