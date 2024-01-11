@@ -518,8 +518,8 @@ strong {
   pointer-events: none;
 }
 .circle{
-width: 100px;
-height: 100px;
+width: 350px;
+height: 350px;
 border-radius: 100%;
 overflow: hidden;
 position: relative;
