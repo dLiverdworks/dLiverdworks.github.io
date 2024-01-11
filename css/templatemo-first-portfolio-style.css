@@ -518,6 +518,10 @@ strong {
   pointer-events: none;
 }
 
+.img {
+  border-radius: 100%;
+}
+
 .hero-image {
   position: absolute;
   z-index: 22;
