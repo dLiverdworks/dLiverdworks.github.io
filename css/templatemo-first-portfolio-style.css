@@ -518,9 +518,9 @@ strong {
   pointer-events: none;
 }
 
-.circle{
-width: 350px;
-height: 350px;
+.circle {
+width: 100%;
+height: 100%;
 top: -50px;
 margin: auto;
 position: absolute;
