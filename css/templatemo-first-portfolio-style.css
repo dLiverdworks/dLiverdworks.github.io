@@ -518,7 +518,7 @@ strong {
   pointer-events: none;
 }
 
-.circle{
+/* .circle{
 width: 350px;
 height: 350px;
 top: -50px;
@@ -529,7 +529,7 @@ left: 0;
 border-radius: 100%;
 overflow: hidden;
 position: relative;
-}
+} */
 
 .square {
 width: 100%;
