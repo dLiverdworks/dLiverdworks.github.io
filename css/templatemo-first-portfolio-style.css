@@ -517,6 +517,7 @@ strong {
   margin: auto;
   pointer-events: none;
 }
+
 .circle{
 width: 350px;
 height: 350px;
@@ -528,6 +529,12 @@ left: 0;
 border-radius: 100%;
 overflow: hidden;
 position: relative;
+}
+
+.square {
+width: 100%;
+height: 100%;
+object-fit: cover;
 }
 
 .hero-image {
