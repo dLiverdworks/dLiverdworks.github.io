@@ -520,6 +520,11 @@ strong {
 .circle{
 width: 350px;
 height: 350px;
+top: -50px;
+margin: auto;
+position: absolute;
+right: 0;
+left: 0;
 border-radius: 100%;
 overflow: hidden;
 position: relative;
