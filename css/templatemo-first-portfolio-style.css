@@ -518,18 +518,13 @@ strong {
   pointer-events: none;
 }
 
-.img-holding {
-  border-radius: 100%;
-  width: 350px;
-  height: 350px;
-}
-
 .hero-image {
   position: absolute;
   z-index: 22;
   top: 0;
   width: 100%;
   min-width: 550px;
+  border-radius: 100%;
 }
 
 .hero svg {
