@@ -504,8 +504,7 @@ strong {
   top: 70px;
 }
 
-.hero-image-wrap, 
-.img {
+.hero-image-wrap {
   background: var(--white-color);
   border-radius: 100%;
   width: 350px;
