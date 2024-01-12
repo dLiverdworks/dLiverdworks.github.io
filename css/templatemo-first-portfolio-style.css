@@ -161,6 +161,10 @@ strong {
   object-fit: cover;
 }
 
+.mb {
+  margin-bottom: 10px;
+}
+
 .avatar-image-large {
   width: 90.4px;
   height: 90.4px;
